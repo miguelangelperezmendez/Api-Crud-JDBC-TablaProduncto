@@ -14,6 +14,13 @@ import org.springframework.stereotype.Repository;
 import com.APIConJDBC.ModeloDTOs.Producto;
 //ESTO TAMBIEN ES UN COMENTARIO DE PRUEBA PARA REPASAR EL FUNCIONAMIENTO DE LAS RAMAS
 
+/*
+ * Biografia: 
+ * Benito Pablo Juárez García (San Pablo Guelatao, Intendencia de Oaxaca; 21 de marzo de 1806-Ciudad de México, 
+ * 18 de julio de 1872), conocido como El Benemérito de las Américas,[1]​ fue un jurista y político mexicano de origen 
+ * indígena de la etnia zapoteca que se desempeñó como presidente de México en varias ocasiones, desde el 21 de enero de 1858 hasta el 18 de julio de 1872.[2]​ Es célebre su frase: «Entre los individuos, como entre las naciones, el respeto al derecho ajeno es la paz».[3]​
+ */
+
 @Repository
 public class ProductoDAO {
 
