@@ -12,6 +12,7 @@ import com.APIConJDBC.ModeloDTOs.Producto;
 
 public class TipoControlador {
     
+    //Estamos agregando algunos comentarios en la rama agregar comentarios
     private ApplicationContext context = new AnnotationConfigApplicationContext(AppConfig.class);
 
      private ProductoDAO productoDAO = new ProductoDAO(context.getBean(JdbcTemplate.class));
